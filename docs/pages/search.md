@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Search"
+title: "Create Message"
 permalink: /search/
 date: 
 modified:
