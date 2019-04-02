@@ -12,7 +12,7 @@ sitemap: false
 ---
   
 <!-- Search form -->
-<img src="FlipSideLogo.png">
+<img src="flipside/images/FlipSideLogo.png">
 
 <form method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">
   <label for="q">Search {{ site.title }} for:</label>
