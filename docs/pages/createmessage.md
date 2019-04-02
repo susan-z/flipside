@@ -6,7 +6,7 @@ date:
 modified:
 excerpt:
 image: 
-  feature:
+  feature: FlipSideLogo.png
 search_omit: true
 sitemap: false
 ---
