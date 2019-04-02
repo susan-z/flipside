@@ -5,13 +5,15 @@ permalink: /search/
 date: 
 modified:
 excerpt:
-image: 
+image: FlipSideLogo.png
   feature: 
 search_omit: true
 sitemap: false
 ---
   
 <!-- Search form -->
+<img src="FlipSideLogo.png" alt="">
+
 <form method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">
   <label for="q">Search {{ site.title }} for:</label>
   <input type="search" name="q" id="q" placeholder="Create custom message" data-search-input id="goog-wm-qt" autofocus />
