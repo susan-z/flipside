@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Create Message"
+title: "Search"
 permalink: /search/
 date: 
 modified:
 excerpt:
-image: FlipSideLogo
+image: 
   feature:
 search_omit: true
 sitemap: false
