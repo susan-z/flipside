@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Search"
+title: "Create Message"
 permalink: /search/
 date: 
 modified:
 excerpt:
-image:
+image: FlipSideLogo
   feature:
 search_omit: true
 sitemap: false
@@ -14,8 +14,8 @@ sitemap: false
 <!-- Search form -->
 <form method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">
   <label for="q">Search {{ site.title }} for:</label>
-  <input type="search" name="q" id="q" placeholder="What are you looking for?" data-search-input id="goog-wm-qt" autofocus />
-  <input type="submit" value="Search" id="goog-wm-sb" class="btn--inverse" />
+  <input type="search" name="q" id="q" placeholder="Create custom message" data-search-input id="goog-wm-qt" autofocus />
+  <input type="submit" value="Send" id="goog-wm-sb" class="btn--inverse" />
 </form>
 
 <!-- Search results placeholder -->
